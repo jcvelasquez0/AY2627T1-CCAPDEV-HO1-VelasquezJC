@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #006a4e; 
+    --primary-color: #00008082; 
     --text-color: #333;
     --border-color: #ddd;
     --bg-light: #f9f9f9;
@@ -30,19 +30,16 @@ h2 {
 
 h1 + p {
     font-weight: bold;
-    text-align: center;
+    text-align: left;
 }
 
-a:hover {
-    color: orange;
-}
 
 a:visited {
     color: darkviolet;
 }
 
 img {
-    height: 60px;
+    height: 100px;
     width: auto;
 }
 
